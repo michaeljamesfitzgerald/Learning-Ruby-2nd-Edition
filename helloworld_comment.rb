@@ -1,2 +1,2 @@
-# A Hello, World program in Ruby
-puts "Hello, World"
+# A Hello, world program in Ruby
+puts "Hello, world"

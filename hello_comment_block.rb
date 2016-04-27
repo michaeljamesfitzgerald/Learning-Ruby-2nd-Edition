@@ -1,5 +1,5 @@
 =begin
-This program prints the nice greeting
-"Hello, world" on a screen
+This program prints a nice greeting
+"hello, world" on standard output
 =end
 puts "hello, world"

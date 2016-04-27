@@ -1,2 +1,2 @@
 # a nice greeting
-puts "Hello, world"
+puts "hello, world"

@@ -1,2 +1,2 @@
-# A Hello, world program in Ruby
+# a nice greeting
 puts "Hello, world"

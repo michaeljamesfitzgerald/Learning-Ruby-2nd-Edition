@@ -1,1 +1,1 @@
-puts "Hello, world" # a nice greeting 
+puts "hello, world" # a nice greeting 
